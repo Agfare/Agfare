@@ -1,7 +1,8 @@
-- 👋 Hi, my name is Alexander
+- 👋 Hi, my name is Alexander.
 - 👀 I’m interested in localization, languages, forensic linguistics and interpreting.
-- 🌱 I’m currently learning Arabic and Python.
-- 💞️ I’m looking to collaborate on all things localization
+- 🌱 I’m currently learning Japanese, Arabic, and Python.
+- 🔥 I’m looking to collaborate on all things localization.
+- 📙 I'm mentoring in localization, feel free to drop me a DM.
 - 📫 How to reach me: try @pnzrbjrn in Telegram.
 
 <!---
