@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese, Arabic, and Python.
 - 🔥 I’m looking to collaborate on all things localization.
 - 📙 I'm mentoring in localization, feel free to drop me a DM.
-- 📫 How to reach me: try @pnzrbjrn in Telegram.
+- 📫 How to reach me: try <a href="t.me/pnzrbjrn">@pnzrbjrn</a> in Telegram.
 
 <!---
 Agfare/Agfare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
